@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.taukir.activityfragmentcombination.interfaec.Databack;
+import com.example.taukir.activityfragmentcombination.myinterface.Databack;
 import com.example.taukir.activityfragmentcombination.R;
 
 public class TopFragment extends Fragment implements View.OnClickListener {

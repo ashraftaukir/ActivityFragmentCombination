@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 
 import com.example.taukir.activityfragmentcombination.fragment.BottomFragment;
 import com.example.taukir.activityfragmentcombination.fragment.TopFragment;
-import com.example.taukir.activityfragmentcombination.interfaec.Databack;
+import com.example.taukir.activityfragmentcombination.myinterface.Databack;
 import com.example.taukir.activityfragmentcombination.R;
 
 public class MainActivity extends FragmentActivity implements Databack {
